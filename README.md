@@ -15,9 +15,3 @@ This repository contains my solutions to programming problems using C++.
 ## Purpose
 
 To improve my problem-solving skills, strengthen my understanding of C++, and prepare for competitive programming contests.
-
-## Language
-
-- C++
-
-I will continue updating this repository as I solve more problems.
